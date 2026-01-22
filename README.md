@@ -1,13 +1,13 @@
-### Hi there 👋
- 
-:computer: My name is Gonzalo Bossetti, a programming student and technology enthusiast
+### Hi, I’m Gonzalo Bossetti
+
+Software Engineer with a strong backend and DevOps background, focused on building reliable systems and improving how organizations work with data.
+
+I studied at the [UTN](https://utn.edu.ar/es/) 
+
+My professional experience includes Java development, cloud infrastructure, CI/CD, and Kubernetes-based deployments. I’m especially interested in roles that combine technical depth with a broader product and business perspective.
 
 
-I’m studying at the [UTN](https://utn.edu.ar/es/), where I also work as an assistant professor of mathematics. Also, I’m learning about AI and Data Government in [UBA-IALAB](https://ialab.com.ar/)
-
-🔭 I’m currently working on a personal project, where I look forward to improving data management in local governments
-
-
+Currently working on a personal project aimed at improving data management and decision-making processes in local governments.
 
 :books: I also love to investigate and write about incoming technologies and society, you can take a look if you want!! 
 
