@@ -1,6 +1,6 @@
 ### Hi, I’m Gonzalo Bossetti
 
-Software Engineer with a strong backend and DevOps background, focused on building reliable systems and improving how organizations work with data.
+Software developer with a strong backend and DevOps background, focused on building reliable systems and improving how organizations work with data.
 
 I studied at the [UTN](https://utn.edu.ar/es/) 
 
