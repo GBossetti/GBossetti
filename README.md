@@ -11,7 +11,7 @@ Currently working on a personal project aimed at improving data management and d
 
 :books: I also love to investigate and write about incoming technologies and society, you can take a look if you want!! 
 
-- Technology and Social Intervention: Ethical Considerations [Journal of Sociology and Social Welfare](https://heinonline.org/HOL/LandingPage?handle=hein.journals/jrlsasw48&div=35&id=&page=)
+- Technology and Social Intervention: Ethical Considerations [Journal of Sociology and Social Welfare](https://scholarworks.wmich.edu/cgi/viewcontent.cgi?article=4560&context=jssw)
 
 - Trabajo Social Digital frente a la Covid-19  [Social Wok Series Aranzadi](https://www.researchgate.net/publication/354600215_Trabajo_Social_Digital_frente_a_la_COVID_19)
 
