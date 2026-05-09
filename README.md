@@ -1,4 +1,4 @@
-### Hi, I’m Gonzalo Bossetti
+### Hi, I’m Gonzalo
 
 Backend and platform-oriented software engineer focused on building scalable systems, automation, and developer tooling.
 
